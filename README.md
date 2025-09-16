@@ -12,9 +12,9 @@
 ## 💖 Favorite Song Right Now  
 
 <p align="center">
-  <a href="https://music.apple.com/us/album/style/1745175829?i=1745175831" target="_blank">
-    <img src="https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/2c/f9/9b/2cf99b21-73bb-9d5f-4af3-4d2d7e7cfd20/24UMGIM12345.rgb.jpg/600x600bb.jpg" 
-         alt="Style by Hearts2Heart" width="300" style="border-radius:20px; box-shadow: 0 0 20px pink;"/>
+  <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank">
+    <img src="https://img.youtube.com/vi/dQw4w9WgXcQ/maxresdefault.jpg" 
+         alt="Style by Hearts2Heart" width="400" style="border-radius:20px; box-shadow: 0 0 20px pink;"/>
   </a>
 </p>  
 
@@ -23,4 +23,3 @@
   <br>
   <i>“Living my life in style, with a heart that beats for dreams.”</i>  
 </p>
-

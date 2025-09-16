@@ -12,7 +12,7 @@
 ## 💖 Favorite Song Right Now  
 
 <p align="center">
-  <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank">
+  <a href="https://www.youtube.com/watch?v=n7kFRxFIPrI" target="_blank">
     <img src="https://img.youtube.com/vi/dQw4w9WgXcQ/maxresdefault.jpg" 
          alt="Style by Hearts2Heart" width="400" style="border-radius:20px; box-shadow: 0 0 20px pink;"/>
   </a>

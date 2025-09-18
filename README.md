@@ -11,8 +11,18 @@ Outside of tech, I stay active with dance and fitness esp **Pilates** and **Yoga
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=naeyanika&show_icons=true&theme=radical&locale=en&layout=compact" alt="naeyanika" /></p>
 
-## 💖 Favorite Song Right Now  
+## 🚀 Favorite Deploy: OPTIMA
 
+<p align="center">
+  <img src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif" width="250" />
+</p>
+
+<p align="center">
+  <b>✨ Every commit = Deploy with Love 💖</b> <br/>
+  <i>Because Audit deserves style too!</i>
+</p>
+
+## 💖 Favorite Song Right Now  
 <p align="center">
   <a href="https://www.youtube.com/watch?v=n7kFRxFIPrI" target="_blank">
     <img src="https://img.youtube.com/vi/n7kFRxFIPrI/maxresdefault.jpg" 

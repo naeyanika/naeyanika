@@ -20,7 +20,8 @@ Outside of tech, I stay active with dance and fitness esp **Pilates** and **Yoga
 </p>
 
 <p align="center">
-  <i>✨ Audit smarter, faster, and cuter with Optima 💖</i>
+  <b>✨ Every commit = Deploy with Love 💖</b> <br/>
+  <i>Because Audit deserves style too!</i>
 </p>
 
 
@@ -31,7 +32,6 @@ Outside of tech, I stay active with dance and fitness esp **Pilates** and **Yoga
          alt="Style by Hearts2Heart" width="400" style="border-radius:20px; box-shadow: 0 0 20px pink;"/>
   </a>
 </p>  
-
 <p align="center">
   <b>💖 Style — Hearts2Heart 💖</b>  
   <br>

@@ -14,13 +14,15 @@ Outside of tech, I stay active with dance and fitness esp **Pilates** and **Yoga
 ## 🚀 Favorite Deploy: OPTIMA
 
 <p align="center">
-  <img src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif" width="250" />
+  <a href="https://github.com/auditdvs/optima">
+    <img src="https://img.shields.io/badge/Try_Optima_App-Click_Here!-brightgreen?style=for-the-badge&logo=nextdotjs" alt="Optima Deploy"/>
+  </a>
 </p>
 
 <p align="center">
-  <b>✨ Every commit = Deploy with Love 💖</b> <br/>
-  <i>Because Audit deserves style too!</i>
+  <i>✨ Audit smarter, faster, and cuter with Optima 💖</i>
 </p>
+
 
 ## 💖 Favorite Song Right Now  
 <p align="center">
